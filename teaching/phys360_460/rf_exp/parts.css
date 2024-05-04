@@ -1,0 +1,6 @@
+h1 {font-size: 20px;}
+h2 {font-size: 20px;}
+body {width: 960px; height: 600px; font-size: 16px; padding: 20px;}
+div#moredetail {float: right; width: 250px; font-size: 14px;}
+div#maindrawing {float: left; width: 700px; font-size: 14px;}
+div#myfoot {clear: both; padding-top: 20px;}

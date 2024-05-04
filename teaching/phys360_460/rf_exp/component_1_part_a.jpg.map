@@ -1,0 +1,15 @@
+<img src="component_1_part_a.jpg" width="600" height="360" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:James Martin -->
+<area shape="rect" coords="23,55,171,102" href="devices/multimeter.html" />
+<area shape="rect" coords="185,23,379,102" href="devices/e3620a.html" />
+<area shape="rect" coords="298,210,359,297" href="devices/vco.html" />
+<area shape="rect" coords="400,189,457,338" href="devices/isolator.html" />
+<area shape="rect" coords="436,23,576,103" href="devices/counter.html" />
+<area shape="rect" coords="348,146,407,205" href="devices/sma_m_m.html" />
+</map>

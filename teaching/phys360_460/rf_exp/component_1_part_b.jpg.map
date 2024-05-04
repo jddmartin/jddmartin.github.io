@@ -1,0 +1,23 @@
+<img src="component_1_part_b.jpg" width="600" height="414" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:James Martin -->
+<area shape="rect" coords="16,15,149,78" href="devices/function_generator.html" />
+<area shape="rect" coords="150,15,223,78" href="devices/e3620a.html" />
+<area shape="rect" coords="165,149,210,214" href="devices/vco.html" />
+<area shape="rect" coords="240,131,282,244" href="devices/isolator.html" />
+<area shape="rect" coords="265,18,376,78" href="devices/counter.html" />
+<area shape="rect" coords="295,148,344,195" href="devices/splitter_10_to_1000.html" />
+<area shape="rect" coords="325,285,412,388" href="devices/cavity.html" />
+<area shape="rect" coords="328,211,372,258" href="devices/circulator.html" />
+<area shape="rect" coords="390,216,428,252" href="devices/amplifier.html" />
+<area shape="rect" coords="435,217,478,252" href="devices/diode_detector.html" />
+<area shape="rect" coords="492,219,543,288" href="devices/diode_load.html" />
+<area shape="rect" coords="474,112,584,173" href="devices/oscilloscope.html" />
+<area shape="rect" coords="199,98,246,143" href="devices/sma_m_m.html" />
+<area shape="rect" coords="365,132,411,175" href="devices/sma_m_m.html" />
+</map>

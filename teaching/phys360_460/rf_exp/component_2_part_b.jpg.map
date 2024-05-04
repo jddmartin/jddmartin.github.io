@@ -1,0 +1,30 @@
+<img src="component_2_part_b.jpg" width="600" height="574" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:James Martin -->
+<area shape="rect" coords="75,14,204,74" href="devices/function_generator.html" />
+<area shape="rect" coords="116,78,222,153" href="devices/bias_t.html" />
+<area shape="rect" coords="104,158,179,216" href="devices/e3620a.html" />
+<area shape="rect" coords="117,268,166,313" href="devices/vco.html" />
+<area shape="rect" coords="237,86,266,139" href="devices/attenuator_xx_db.html" />
+<area shape="rect" coords="307,100,349,143" href="devices/ten_mhz_source.html" />
+<area shape="rect" coords="479,139,585,202" href="devices/oscilloscope.html" />
+<area shape="rect" coords="195,251,235,358" href="devices/isolator.html" />
+<area shape="rect" coords="245,268,292,312" href="devices/splitter_10_to_1000.html" />
+<area shape="rect" coords="216,184,321,244" href="devices/counter.html" />
+<area shape="rect" coords="277,324,317,372" href="devices/circulator.html" />
+<area shape="rect" coords="329,331,365,364" href="devices/amplifier.html" />
+<area shape="rect" coords="396,418,430,455" href="devices/amplifier.html" />
+<area shape="rect" coords="272,455,357,549" href="devices/cavity.html" />
+<area shape="rect" coords="368,331,406,364" href="devices/diode_detector.html" />
+<area shape="rect" coords="436,419,476,454" href="devices/diode_detector.html" />
+<area shape="rect" coords="471,444,512,498" href="devices/diode_load.html" />
+<area shape="rect" coords="451,326,493,369" href="devices/low_pass_filter.html" />
+<area shape="rect" coords="490,349,529,410" href="devices/fifty_ohm_terminator.html" />
+<area shape="rect" coords="223,123,264,182" href="devices/fifty_ohm_terminator.html" />
+<area shape="rect" coords="407,327,449,367" href="devices/mixer_low_freq.html" />
+</map>
